@@ -1,0 +1,38 @@
+# FastAPI Web Framework
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# Database
+pymongo==5.6.0
+dnspython==2.5.0
+
+# Data validation
+pydantic==2.6.1
+
+# File upload support
+python-multipart==0.0.9
+
+# AI / ML / LLM
+requests==2.32.0
+openai==1.7.3
+sentence-transformers==2.5.1
+scikit-learn==1.4.0
+numpy==1.26.4
+scipy==1.12.0
+
+# File watching
+watchdog==3.1.1
+
+# AWS S3
+boto3==1.28.55
+
+# Celery (optional background jobs)
+celery==5.3.6
+redis==5.0.1
+
+# Testing
+pytest==8.0.0
+httpx==0.26.0
+
+# Utility
+python-dotenv==1.0.0
