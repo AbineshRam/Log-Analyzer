@@ -69,12 +69,7 @@ Log Analyzer/
 
 ## 🚀 Setup & Installation
 
-1. Clone the repo:
-
-```bash
-git clone https://github.com/yourusername/ai-log-analyzer.git
-cd ai-log-analyzer
-```
+1. Clone this repo:
 
 2. Create virtual environment & install dependencies:
 
